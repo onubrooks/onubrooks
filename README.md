@@ -2,7 +2,7 @@
 <h3 align="center">Backend Developer and NodeJs Expert</h3>
 
 <p>I spend most of my time architecting and crafting scalable backend systems using NodeJs and PHP. In my free time I also wrangle in data engineering using Python.</p>
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*IO0G2ygwIml_NGAv26Na4w.gif" />
+<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJsKZVppBhshJBN6_RHp9luylwz4eQO4I8Tg&usqp=CAU" />
 
 - 🔭 I’m currently working on **A NodeJs streaming API**
 
