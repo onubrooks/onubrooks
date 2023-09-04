@@ -4,7 +4,7 @@
 <p>I spend most of my time architecting and crafting scalable backend systems using NodeJs and PHP. In my free time I also wrangle in data engineering using Python.</p>
 <img align="right" alt="coding" width="350" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJsKZVppBhshJBN6_RHp9luylwz4eQO4I8Tg&usqp=CAU" />
 
-- 🔭 Currently working on **A NodeJs streaming APP**
+- 🔭 Currently building **[BiteExpress](https://linktr.ee/biteexpress), a food delivery app**
 
 - 🌱 Also learning **Data Engineering with Google cloud (GCS, DataProc and Bigquery), Apache frameworks (Beam, Airflow, Spark)**
 
