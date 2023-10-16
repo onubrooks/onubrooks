@@ -1,5 +1,5 @@
 <h1 align="center">Hi <a href="https://twitter.com/onubrooks" target="blank"><img align="center" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="wave" /></a>, I'm Onu Abah</h1>
-<h3 align="center">Backend Developer and NodeJs Expert</h3>
+<h3 align="center">Backend Engineer and NodeJs Expert</h3>
 
 <p>I spend most of my time architecting and crafting scalable backend systems using NodeJs and PHP. In my free time I also wrangle in data engineering using Python.</p>
 <img align="right" alt="coding" width="350" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJsKZVppBhshJBN6_RHp9luylwz4eQO4I8Tg&usqp=CAU" />
