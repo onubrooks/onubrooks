@@ -14,7 +14,7 @@
 
 - ⚡ Fun fact **I was born to be a super-spy for some covert organisation...I think 🤔**
 
-<h3 align="left">**NodeJs Projects**</h3>
+<h3 align="left">NodeJs Projects</h3>
 
 - [NASA Project](https://github.com/onubrooks/NASA-PROJECT): An ExpressJs backend (and frontend) that explores planetary and extraterrestrial planets using the NASA API.
 
@@ -22,7 +22,7 @@
 - [NodeJs Performance](https://github.com/onubrooks/nodejs-performance): A deep-dive into NodeJs Performance best practices
 - A Discord bot that can predict the weather and forecast astronomical information and much more! (code to be made publicly available soon).
 
-<h3 align="left">**Data Engineering Projects**</h3>
+<h3 align="left">Data Engineering Projects</h3>
 
 - [Airflow SocrataAPI BigQuery Data-Pipeline](https://github.com/onubrooks/Airflow-SocrataAPI-BigQuery-Data-Pipeline)
 - [Other Airflow projects](https://github.com/onubrooks/airflow-projects): A collection of DAGs in Apache Airflow to create, schedule and run data pipelines as well as integration with other big data technologies like BigQuery and GCP.
