@@ -6,7 +6,7 @@
 
 - 🔭 Currently building **[BiteExpress](https://linktr.ee/biteexpress), a restaurant food delivery service**
 
-- 🌱 Also learning **Data Engineering with Google cloud (GCS, DataProc, PubSub and Bigquery), Apache frameworks (Beam, Airflow, Spark) and data modelling (DBT)**
+- 🌱 I'm also a  **Data Engineering consultant with Google cloud (GCS, DataProc, PubSub and Bigquery), Apache frameworks (Beam, Airflow, Spark) and data modelling (DBT)**
 
 - 👯 I’m looking to collaborate on **Backend and data projects at scale.**
 
@@ -24,7 +24,7 @@
 
 <h3 align="left">Data Engineering Projects</h3>
 
-- [ATP Tennis ETL Pipeline for Analytics]([https://github.com/onubrooks/Airflow-SocrataAPI-BigQuery-Data-Pipeline](https://github.com/onubrooks/Data-Engineering-Capstone-ATP-Tennis))
+- [ATP Tennis ETL Pipeline for Analytics](https://github.com/onubrooks/Data-Engineering-Capstone-ATP-Tennis)
 - [Airflow SocrataAPI BigQuery Data-Pipeline](https://github.com/onubrooks/Airflow-SocrataAPI-BigQuery-Data-Pipeline)
 - [Other Airflow projects](https://github.com/onubrooks/airflow-projects): A collection of DAGs in Apache Airflow to create, schedule and run data pipelines as well as integration with other big data technologies like BigQuery and GCP.
 - [Pandas Tutorial](https://github.com/onubrooks/pandas-tutorial)
