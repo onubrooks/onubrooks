@@ -24,6 +24,7 @@
 
 <h3 align="left">Data Engineering Projects</h3>
 
+- [Online Retail Sales and Customer Transaction Analytics](https://github.com/onubrooks/Online-Retail-Sales-and-Customer-Transaction-Data). See Dashboard [here](https://lookerstudio.google.com/u/0/reporting/f0239093-6349-4806-83b1-20e81e8de904/page/zcIvD)
 - [ATP Tennis ETL Pipeline for Analytics](https://github.com/onubrooks/Data-Engineering-Capstone-ATP-Tennis)
 - [Airflow SocrataAPI BigQuery Data-Pipeline](https://github.com/onubrooks/Airflow-SocrataAPI-BigQuery-Data-Pipeline)
 - [Other Airflow projects](https://github.com/onubrooks/airflow-projects): A collection of DAGs in Apache Airflow to create, schedule and run data pipelines as well as integration with other big data technologies like BigQuery and GCP.
