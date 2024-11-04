@@ -1,5 +1,5 @@
 <h1 align="center">Hi <a href="https://twitter.com/onubrooks" target="blank"><img align="center" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="wave" /></a>, I'm Onu Abah</h1>
-<h3 align="center">Consultant: Data Infrastructure and Management Services</h3>
+<h3 align="center">Consultant, Data Infrastructure and Management Services</h3>
 
 <p>I spend most of my time architecting and crafting scalable backend systems in NodeJs and PHP as well as wrangling in Data Engineering using Python and Scala. I'm also a data structures and algorithms nerd 😉</p>
 <img align="right" alt="coding" width="350" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJsKZVppBhshJBN6_RHp9luylwz4eQO4I8Tg&usqp=CAU" />
@@ -17,7 +17,7 @@
 <h3 align="left">Data Engineering Projects</h3>
 
 - [Stock Prices and News Sentiment ETL for Machine Learning Models](https://github.com/onubrooks/Stock-Data-News-Sentiment-Pipeline). See Architecture [here](https://github.com/onubrooks/Stock-Data-News-Sentiment-Pipeline/blob/main/assets/images/infra.png)
-- [Data Pipeline implemented with Automation Tool: Make.com]([https://github.com/onubrooks/Online-Retail-Sales-and-Customer-Transaction-Data](https://github.com/onubrooks/Data-Pipeline-Using-Automation-Tool-Make)). See Architecture [here](https://github.com/onubrooks/Data-Pipeline-Using-Automation-Tool-Make/blob/main/screenshots/Make%20Workflow%20Screen.png)
+- [Data Pipeline implemented with Automation Tool: Make.com](https://github.com/onubrooks/Data-Pipeline-Using-Automation-Tool-Make). See Architecture [here](https://github.com/onubrooks/Data-Pipeline-Using-Automation-Tool-Make/blob/main/screenshots/Make%20Workflow%20Screen.png)
 - [Online Retail Sales and Customer Transaction Analytics](https://github.com/onubrooks/Online-Retail-Sales-and-Customer-Transaction-Data). See Dashboard [here](https://lookerstudio.google.com/u/0/reporting/f0239093-6349-4806-83b1-20e81e8de904/page/zcIvD)
 - [ATP Tennis ETL Pipeline for Analytics](https://github.com/onubrooks/Data-Engineering-Capstone-ATP-Tennis)
 - [Airflow SocrataAPI BigQuery Data-Pipeline](https://github.com/onubrooks/Airflow-SocrataAPI-BigQuery-Data-Pipeline)
