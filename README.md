@@ -1,5 +1,5 @@
 <h1 align="center">Hi <a href="https://twitter.com/onubrooks" target="blank"><img align="center" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="wave" /></a>, I'm Onu Abah</h1>
-<h3 align="center">Data Management Consultant and Data/Backend Engineer</h3>
+<h3 align="center">Consultant: Data Infrastructure and Management Services</h3>
 
 <p>I spend most of my time architecting and crafting scalable backend systems in NodeJs and PHP as well as wrangling in Data Engineering using Python and Scala. I'm also a data structures and algorithms nerd 😉</p>
 <img align="right" alt="coding" width="350" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJsKZVppBhshJBN6_RHp9luylwz4eQO4I8Tg&usqp=CAU" />
@@ -14,6 +14,16 @@
 
 - ⚡ Fun fact **I was born to be a super-spy for some covert organisation...I think 🤔**
 
+<h3 align="left">Data Engineering Projects</h3>
+
+- [Stock Prices and News Sentiment ETL for Machine Learning Models](https://github.com/onubrooks/Stock-Data-News-Sentiment-Pipeline). See Architecture [here](https://github.com/onubrooks/Stock-Data-News-Sentiment-Pipeline/blob/main/assets/images/infra.png)
+- [Data Pipeline implemented with Automation Tool: Make.com]([https://github.com/onubrooks/Online-Retail-Sales-and-Customer-Transaction-Data](https://github.com/onubrooks/Data-Pipeline-Using-Automation-Tool-Make)). See Architecture [here](https://github.com/onubrooks/Data-Pipeline-Using-Automation-Tool-Make/blob/main/screenshots/Make%20Workflow%20Screen.png)
+- [Online Retail Sales and Customer Transaction Analytics](https://github.com/onubrooks/Online-Retail-Sales-and-Customer-Transaction-Data). See Dashboard [here](https://lookerstudio.google.com/u/0/reporting/f0239093-6349-4806-83b1-20e81e8de904/page/zcIvD)
+- [ATP Tennis ETL Pipeline for Analytics](https://github.com/onubrooks/Data-Engineering-Capstone-ATP-Tennis)
+- [Airflow SocrataAPI BigQuery Data-Pipeline](https://github.com/onubrooks/Airflow-SocrataAPI-BigQuery-Data-Pipeline)
+- [Other Airflow projects](https://github.com/onubrooks/airflow-projects): A collection of DAGs in Apache Airflow to create, schedule and run data pipelines as well as integration with other big data technologies like BigQuery and GCP.
+- [Pandas Tutorial](https://github.com/onubrooks/pandas-tutorial)
+
 <h3 align="left">NodeJs Projects</h3>
 
 - [NASA Project](https://github.com/onubrooks/NASA-PROJECT): An ExpressJs backend (and frontend) that explores planetary and extraterrestrial planets using the NASA API.
@@ -21,15 +31,7 @@
 - [Payment Information Validator](https://github.com/onubrooks/payment-information-validator): A vanilla NodeJs API that validates credit card information and charge amount.
 - [NodeJs Performance](https://github.com/onubrooks/nodejs-performance): A deep-dive into NodeJs Performance best practices
 - A Discord bot that can predict the weather and forecast astronomical information and much more! (code to be made publicly available soon).
-
-<h3 align="left">Data Engineering Projects</h3>
-
-- [Online Retail Sales and Customer Transaction Analytics](https://github.com/onubrooks/Online-Retail-Sales-and-Customer-Transaction-Data). See Dashboard [here](https://lookerstudio.google.com/u/0/reporting/f0239093-6349-4806-83b1-20e81e8de904/page/zcIvD)
-- [ATP Tennis ETL Pipeline for Analytics](https://github.com/onubrooks/Data-Engineering-Capstone-ATP-Tennis)
-- [Airflow SocrataAPI BigQuery Data-Pipeline](https://github.com/onubrooks/Airflow-SocrataAPI-BigQuery-Data-Pipeline)
-- [Other Airflow projects](https://github.com/onubrooks/airflow-projects): A collection of DAGs in Apache Airflow to create, schedule and run data pipelines as well as integration with other big data technologies like BigQuery and GCP.
-- [Pandas Tutorial](https://github.com/onubrooks/pandas-tutorial)
-
+  
 <h3 align="left">**Other Interesting Projects**</h3>
 
 - [Data Structures and Algorithms](https://github.com/onubrooks/data-structures-and-algorithms): An implementation of the most common data structures and related algorithms in Javascript and Python.
