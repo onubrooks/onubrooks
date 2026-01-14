@@ -4,7 +4,7 @@
 <p>I spend most of my time architecting and crafting scalable backend systems in NodeJs and PHP as well as wrangling in Data Engineering using Python and Scala. I'm also a data structures and algorithms nerd 😉</p>
 <img align="right" alt="coding" width="350" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJsKZVppBhshJBN6_RHp9luylwz4eQO4I8Tg&usqp=CAU" />
 
-- 🔭 Data Engineer building solutions to power businesses across Africa at **[Moniepoint Group](https://moniepoint.com/ng/business).
+- 🔭 Data Engineer building solutions to power businesses across Africa at **[Moniepoint Group](https://moniepoint.com/ng/business)**.
 
 - 🔭 Co-founder at **[BiteExpress](https://linktr.ee/biteexpress), a restaurant food delivery service** 
 
